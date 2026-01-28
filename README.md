@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hello there
+
+I am a computer sciencee student at RWTH Aachen University.
+
+I am currently specializing in Cybersecurity and Embedded Systems but I am open to collaborate on more ideas.
+I am working on a self-made penetration testing framework.
+Ask me just about anything.
 
 <!--
 **IvanCholakov21/IvanCholakov21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
